@@ -22,19 +22,19 @@ This is a Flask-based web application designed to collect data on users' income 
 1. **Clone the Repository**:
    Clone this repository to your local machine or EC2 instance.
 
-   ```bash
-   git clone https://github.com/yourusername/Flask-Health-Application.git
+   ```
+   git clone https://github.com/Cod3ghost/Flask-Healthcare-Application_
    ```
 
 2. **Navigate to the Project Directory**:
-   ```bash
-   cd Flask-Health-Application
+   ```
+   cd Flask-Health-Application_
    ```
 
 3. **Set Up a Virtual Environment**:
    Create and activate a virtual environment to isolate dependencies.
 
-   ```bash
+   ```
    python3 -m venv venv
    source venv/bin/activate  # On macOS and Linux
    venv\Scripts\activate  # On Windows
@@ -43,7 +43,7 @@ This is a Flask-based web application designed to collect data on users' income 
 4. **Install Dependencies Individually**:
    Manually install each required dependency:
 
-   ```bash
+   ```
    pip install flask
    pip install pymongo
    ```
@@ -58,7 +58,7 @@ This is a Flask-based web application designed to collect data on users' income 
 1. **Start the Flask Application**:
    Run the app locally to test it.
 
-   ```bash
+   ```
    python app.py
    ```
 
